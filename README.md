@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ata Türkoğlu</h1>
 <h3 align="center">Full Stack Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React.j** and **Typescript**
 
 - 💬 Ask me about **Vue.js**
 
